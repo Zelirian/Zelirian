@@ -5,8 +5,9 @@ theme: jekyll-theme-hacker
 title: titleTest
 # relative_url: https://github.com/Zelirian
 # permalink: github.com/Zelirian
-description: test description 16
+description: test description 17
 github:
+ repository_name: repName.com
  repository_url: http://google.com
  is_project_page: true
 # defaults:
