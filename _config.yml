@@ -1,4 +1,5 @@
 theme: jekyll-theme-hacker
 title: titleTest
-description: test description 5
+description: test description 6
 github.is_project_page: false
+show_downloads: true
