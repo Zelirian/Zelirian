@@ -4,9 +4,10 @@ plugins:
 theme: jekyll-theme-hacker
 title: titleTest
 # relative_url: https://github.com/Zelirian
-permalink: github.com/Zelirian
-description: test description 14
+# permalink: github.com/Zelirian
+description: test description 15
 github:
+ repository_url: http://google.com
  is_project_page: false
 # defaults:
 # - downloads: hide
