@@ -1,5 +1,7 @@
 theme: jekyll-theme-hacker
 title: titleTest
-description: test description 10
-defaults:
- - section: hide
+description: test description 11
+github:
+ repository_url: http://google.com
+# defaults:
+# - downloads: hide
