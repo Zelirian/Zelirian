@@ -1,7 +1,7 @@
 theme: jekyll-theme-hacker
 title: titleTest
-description: test description 11
+description: test description 12
 github:
- repository_url: http://google.com
+ is_project_page: false
 # defaults:
 # - downloads: hide
