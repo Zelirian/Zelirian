@@ -7,10 +7,10 @@ url: http://google.com
 # baseurl: https://www.google.it/imghp?hl=it&ogbl
 # relative_url: https://github.com/Zelirian
 # permalink: github.com/Zelirian
-description: test description 23
+description: test description 24
 github:
  repository_name: repName.com
- repository_url: http://google.com
+ # repository_url: http://google.com
  is_project_page: true
 # defaults:
 # - downloads: hide
