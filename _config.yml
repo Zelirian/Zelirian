@@ -1,5 +1,5 @@
 theme: jekyll-theme-hacker
 title: titleTest
-description: test description 9
+description: test description 10
 defaults:
-  - section: hide
+ - section: hide
