@@ -1,4 +1,4 @@
-remote_theme: davorpa/github-pages-themes-hacker@gh-pages
+remote_theme: davorpa/github-pages-themes-hacker@Zelirian-customizedPatchs_test
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 theme: jekyll-theme-hacker
@@ -7,10 +7,11 @@ title: titleTest
 # baseurl: https://www.google.it/imghp?hl=it&ogbl
 relative_url: https://github.com/Zelirian
 # permalink: github.com/Zelirian
-description: test description 27
+description: test description 28
 github:
  # repository_name: https://marketingplatform.google.com/about/
  # repository_url: http://google.com
+ profile_url: https://github.com/Zelirian
  is_project_page: true
 # defaults:
 # - downloads: hide
