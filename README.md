@@ -1,6 +1,6 @@
 ### Hi there 👋 nice to meet you!
 
-[![Foo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fit%2Fsearch%3Fk%3D%2522work%2Bin%2Bprogress%2522&psig=AOvVaw1dkho9MK2oxylmudLdscn2&ust=1643754306725000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIjttKmE3fUCFQAAAAAdAAAAABAE)]()
+[![Foo](https://t4.ftcdn.net/jpg/01/01/97/41/240_F_101974188_JmL9UeRv9Vr5Xgy2mLYDy0p1cCKvixes.jpg)]()
 
 <!--
 **Zelirian/Zelirian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
