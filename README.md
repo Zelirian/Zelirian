@@ -1,5 +1,7 @@
 ### Hi there 👋 nice to meet you!
 
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+
 <!--
 **Zelirian/Zelirian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
