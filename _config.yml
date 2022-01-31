@@ -5,9 +5,9 @@ theme: jekyll-theme-hacker
 title: titleTest
 # url: http://google.com
 # baseurl: https://www.google.it/imghp?hl=it&ogbl
-# relative_url: https://github.com/Zelirian
+relative_url: https://github.com/Zelirian
 # permalink: github.com/Zelirian
-description: test description 26
+description: test description 27
 github:
  # repository_name: https://marketingplatform.google.com/about/
  # repository_url: http://google.com
