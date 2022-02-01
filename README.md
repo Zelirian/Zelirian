@@ -1,7 +1,6 @@
 ### Hi there 👋 nice to meet you!
 
-[![Foo](https://t4.ftcdn.net/jpg/01/01/97/41/240_F_101974188_JmL9UeRv9Vr5Xgy2mLYDy0p1cCKvixes.jpg)]()
-
+[![Foo](https://t4.ftcdn.net/jpg/01/01/97/41/240_F_101974188_JmL9UeRv9Vr5Xgy2mLYDy0p1cCKvixes.jpg)]()  
 Online participations and contributions:  
 [github.com](https://github.com/Zelirian)  
 [bitbucket.org](https://bitbucket.org/d_tedesco/)  
