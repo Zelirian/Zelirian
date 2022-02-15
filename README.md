@@ -5,6 +5,7 @@
 Online participations and contributions:  
 [github.com](https://github.com/Zelirian)  
 [bitbucket.org](https://bitbucket.org/d_tedesco/)  
+[Google Developers](https://g.dev/Zelirian/)  
 [bitbucket.org](https://bitbucket.org/TestER666/)  
 [mql5.com](https://mql5.com/en/users/e.dantes)  
 [codegrepper.com](https://codegrepper.com/profile/davide-tedesco)  
