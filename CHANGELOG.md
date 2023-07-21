@@ -27,7 +27,7 @@ Additional labels for pre-release and build metadata are available as extensions
 - CHANGELOG.md  
 - Skills.md  
 - EducationTrainingAndLanguageSkills.md  
-- README.md added Skills, Education Training and Language Skills links  
+- README.md Skills, Education Training and Language Skills links  
 
 ## [1.0.0]  
 ### Added  
