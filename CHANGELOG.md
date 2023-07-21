@@ -23,6 +23,8 @@ Additional labels for pre-release and build metadata are available as extensions
 
 
 ## [Unreleased]  
+
+## [1.1.0] - 2023-07-21  
 ### Added  
 - CHANGELOG.md  
 - Skills.md  
