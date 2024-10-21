@@ -38,6 +38,7 @@ Aligned version with cv version
 - in README.md: elements order
 - in README.md: image
 - in EducationTrainingAndLanguageSkills.md: title formatted in markdown
+- in EducationTrainingAndLanguageSkills.md: text formatting for markdown
 ### Fixed
 - in README.md: `Online participation and contributions`
 
