@@ -1,8 +1,14 @@
-### Hi there 👋 nice to meet you!
+## Hi there 👋 nice to meet you!
+**Senior Back-End, DevOps, Full Stack, Engineering-minded Analyst and Developer**  
 
-[![Foo](https://t4.ftcdn.net/jpg/01/01/97/41/240_F_101974188_JmL9UeRv9Vr5Xgy2mLYDy0p1cCKvixes.jpg)]()  
+[![Grow](https://img.freepik.com/premium-photo/plant-growing-middle-forest_818261-443.jpg)]()  
+
+To study and improve are my favorite ways to make myself better for the next challenge.  
+_"Luck is what happens when preparation meets opportunity"_  
+_"It's a Long Way to the Top (If You Wanna Rock 'N' Roll)"_
+
 [Linkedin](https://linkedin.com/in/davide-tedesco)  
-Online participations and contributions:  
+Online participation and contributions:  
 [github.com](https://github.com/Zelirian)  
 [bitbucket.org](https://bitbucket.org/d_tedesco/)  
 [Google Developers](https://g.dev/Zelirian/)  
@@ -11,6 +17,8 @@ Online participations and contributions:
 [codegrepper.com](https://codegrepper.com/profile/davide-tedesco)  
 [codingame.com](https://codingame.com/profile/4f590ab05c0e893e003fd72cea68a8fc9372783)  
 
+[Projects and Open Source Contributions](/ProjectsAndOpenSourceContributions.md)  
+[Personal Projects](/PersonalProjects.md)  
 [Skills](/Skills.md)  
 [Education Training and Language Skills](/EducationTrainingAndLanguageSkills.md)
 
