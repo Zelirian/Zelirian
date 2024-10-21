@@ -24,6 +24,11 @@ Additional labels for pre-release and build metadata are available as extensions
 
 ## [Unreleased]  
 
+## [8.6.1.4] - 2024-10-21 20-08  
+### Fixed  
+- in PersonalProjects.md: new line format for markdown on github
+- in ProjectsAndOpenSourceContributions.md: new line format for markdown on github
+
 ## [8.6.1.2..8.6.1.3] - 2024-10-21  
 ### Fixed  
 - in _config.yml: `description` field changed from folded scalar to literal block scalar
