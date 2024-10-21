@@ -24,6 +24,24 @@ Additional labels for pre-release and build metadata are available as extensions
 
 ## [Unreleased]  
 
+## [8.6.1] - 2024-10-21  
+Aligned version with cv version
+### Added  
+- in README.md: my title, citations, 
+- in README.md: `Projects and Open Source Contributions` link
+- in README.md: `Personal Projects` link
+- in Skills.md: latest earned skills
+- in _config.yml: in description, my title
+- PersonalProjects.md file
+- ProjectsAndOpenSourceContributions.md file
+### Changed  
+- in README.md: elements order
+- in README.md: image
+- in EducationTrainingAndLanguageSkills.md: title formatted in markdown
+- in EducationTrainingAndLanguageSkills.md: text formatting for markdown
+### Fixed
+- in README.md: `Online participation and contributions`
+
 ## [1.1.0] - 2023-07-21  
 ### Added  
 - CHANGELOG.md  
