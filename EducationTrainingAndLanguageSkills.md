@@ -8,5 +8,5 @@ High school leaving qualification: **IT Expert** (2004).
 
 Next Targets: **Degree in Computer Engineering.**
 
-Language Skills
+Language Skills  
 **Italian** (mother tongue), **English** (strong written/reading, intermediate listening, basic speaking), **IT English** (strong), **Castilian Spanish** and **Catalan Spanish** (intermediate listening).
