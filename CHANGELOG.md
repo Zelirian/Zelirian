@@ -24,14 +24,18 @@ Additional labels for pre-release and build metadata are available as extensions
 
 ## [Unreleased]  
 
+## [8.6.1.2..8.6.1.3] - 2024-10-21  
+### Fixed  
+- in _config.yml: `description` field changed from folded scalar to literal block scalar
+
 ## [8.6.1.1] - 2024-10-21  
-### Fixed
+### Fixed  
 - in ProjectsAndOpenSourceContributions.md: Football Results project description
 
 ## [8.6.1] - 2024-10-21  
-Aligned version with cv version
+Aligned version with cv version  
 ### Added  
-- in README.md: my title, citations, 
+- in README.md: my title, citations,
 - in README.md: `Projects and Open Source Contributions` link
 - in README.md: `Personal Projects` link
 - in Skills.md: latest earned skills
