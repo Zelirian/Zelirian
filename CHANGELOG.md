@@ -24,6 +24,10 @@ Additional labels for pre-release and build metadata are available as extensions
 
 ## [Unreleased]  
 
+## [8.6.1.1] - 2024-10-21  
+### Fixed
+- in ProjectsAndOpenSourceContributions.md: Football Results project description
+
 ## [8.6.1] - 2024-10-21  
 Aligned version with cv version
 ### Added  
