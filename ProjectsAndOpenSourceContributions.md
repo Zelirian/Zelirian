@@ -1,4 +1,5 @@
 ### Projects and Open Source Contributions
+
 |||  
 |-|-|  
 |RT-SIT|Management of Cultural Events, humanistic components on Cloud **Open Toscana**|  
