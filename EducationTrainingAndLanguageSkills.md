@@ -1,5 +1,4 @@
-
-Education and Training
+### Education and Training
 Certifications: **Microsoft Exam 70-483: C#** (Olsa Informatica - September 2019).
 Linkedin's Badges: **C, C++, Java, Spring Framework, C#, .NET, AWS, Angular, HTML, JavaScript, jQuery, Git, Maven, MySQL, T-SQL, OOP, IT operations.**
 TestDome's Certificates: **Java, DevOps, Hibernate, Spring Framework, Spring Boot, AWS, HTML/CSS, JavaScript, jQuery, Git, SQL, Algorithms.**
