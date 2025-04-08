@@ -24,6 +24,10 @@ Additional labels for pre-release and build metadata are available as extensions
 
 ## [Unreleased]  
 
+## [8.7.1.2] - 2025-04-07 23-39  
+### Fixed  
+- in _config.yml, field description
+
 ## [8.7.1.1] - 2025-04-07 22-45  
 ### Fixed  
 - in README.md, my title
