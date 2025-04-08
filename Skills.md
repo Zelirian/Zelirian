@@ -1,7 +1,7 @@
 ### Skills
 Software Design Strategies and Approaches: **Documentation, Requirements, Analysis, UML, Test Driven Development (TDD), Behavior Driven Development (BDD), Decoupling Layer, Domain Driven Design (DDD), Libraries Development, Data Layer, Application Layer, Microservices architecture, Event-driven architecture, Infrastructure as Code (IaC), Atomicity Consistency Isolation Durability (ACID), Object-Oriented Design (OOD), SOLID principles, Functional Programming (FP), Design Pattern Oriented (DPO), No Pattern, AntiPatterns, Pair programming, Testing, Develop.**
 
-Documentation Tools and Libraries: **Confluence, Javadoc, Markdown, AsciiDoc, StackEdit, Asciidoctor, PlantText, PlantUML, DotUML.**
+Documentation Tools and Libraries: **Confluence, Javadoc, Markdown, AsciiDoc, StackEdit, Asciidoctor, PlantText, PlantUML, DotUML, Graphviz, Mermaid.**
 
 Design and Prototyping Tools: **Mural, Miro, Pitch, draw.io, Gliffy, Graphity, GraphML, Trivial Graph Format (TGF), DOT, Wireframe, InVision, Mockups, yEd.**
 
