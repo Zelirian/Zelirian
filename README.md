@@ -1,5 +1,5 @@
 ## Hi there 👋 nice to meet you!
-**Senior Back-End, DevOps, Full Stack, Engineering-minded Analyst and Developer**  
+**💻 Senior Developer | ♨️ Back-End Specialist | ☁️ DevOps | 📊 Trading & Quant Dev | 🧠 Engineering-Minded**  
 
 [![Grow](https://img.freepik.com/premium-photo/plant-growing-middle-forest_818261-443.jpg)]()  
 
