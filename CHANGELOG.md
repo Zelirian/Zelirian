@@ -24,6 +24,12 @@ Additional labels for pre-release and build metadata are available as extensions
 
 ## [Unreleased]  
 
+## [8.7.1] - 2025-04-07 21-50  
+### Added  
+- in Skills.md, in Documentation Tools and Libraries: Graphviz, Mermaid
+### Changed  
+- in _config.yml, description
+
 ## [8.6.1.4] - 2024-10-21 20-08  
 ### Fixed  
 - in PersonalProjects.md: new line format for markdown on github
