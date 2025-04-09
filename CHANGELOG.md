@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+The format is based on [Keep a Changelog](https://keepachangelog.com/),
 #### Types of changes
 -   `Added`  for new features.
 -   `Changed`  for changes in existing functionality.
@@ -24,15 +24,19 @@ Additional labels for pre-release and build metadata are available as extensions
 
 ## [Unreleased]  
 
-## [8.7.1.2] - 2025-04-07 23-39  
+## [8.7.0.2] - 2025-04-09 13-45  
+### Fixed  
+- tags from 8.7.1... to 8.7.0...
+
+## [8.7.0.2] - 2025-04-07 23-39  
 ### Fixed  
 - in _config.yml, field description
 
-## [8.7.1.1] - 2025-04-07 22-45  
+## [8.7.0.1] - 2025-04-07 22-45  
 ### Fixed  
 - in README.md, my title
 
-## [8.7.1] - 2025-04-07 21-50  
+## [8.7.0] - 2025-04-07 21-50  
 ### Added  
 - in Skills.md, in Documentation Tools and Libraries: Graphviz, Mermaid
 ### Changed  
